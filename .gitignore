@@ -1,0 +1,9 @@
+data/
+**/data/
+build/
+*.bak
+*.tmp
+*.damaged-*
+*.user
+*.suo
+.vs/
