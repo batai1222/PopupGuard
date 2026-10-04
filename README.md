@@ -1,6 +1,12 @@
 # PopupGuard · 独立弹窗拦截
 
-一个简洁的 Windows 弹窗拦截工具，使用 C#、WinForms 和 Windows 窗口事件实现。当前版本为 **1.0.4**，适用于 Windows 10/11 的 x64 交互式桌面，需要 .NET Framework 4.x。
+**截图选窗添加规则，错过的弹窗从历史里补拦截。**
+
+**[下载 Windows 版](https://github.com/batai1222/PopupGuard/releases/latest)** · [使用方法](#使用方法) · [反馈问题](https://github.com/batai1222/PopupGuard/issues)
+
+PopupGuard 把弹窗拦截做成一个独立的小工具：截图点选目标、记录短暂出现的窗口、逐条管理规则，关闭主页面后继续在托盘运行。鼠标左键点一下托盘图标即可回到主页面。
+
+当前版本 **1.0.4**，主程序约 **66 KiB**。源码公开，记录保存在本机。适用于 Windows 10/11 x64 交互式桌面，需要 .NET Framework 4.x；使用 C# 和 WinForms 实现。
 
 ## 下载和运行
 
