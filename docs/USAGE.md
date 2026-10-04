@@ -10,7 +10,7 @@ PopupGuard 把弹窗拦截做成一个独立的小工具：截图点选目标、
 
 ## 下载和运行
 
-从 [Releases](https://github.com/batai1222/PopupGuard/releases) 下载 `PopupGuard-v1.0.4-windows-x64.zip`，解压到可写的文件夹，运行 `PopupGuard.exe`。仓库的 `release` 目录也提供可执行文件。程序不带预设拦截规则，需要先添加目标窗口。
+点击[直接下载 PopupGuard.exe](https://github.com/batai1222/PopupGuard/releases/latest/download/PopupGuard.exe)，保存到可写的文件夹，双击运行即可，无需安装或解压。也可从 [Releases](https://github.com/batai1222/PopupGuard/releases) 下载 ZIP 压缩包。程序不带预设拦截规则，需要先添加目标窗口。
 
 ## 使用方法
 
